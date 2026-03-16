@@ -1,6 +1,6 @@
 Made by: @firesareba // simha saraswati
 Repository link: https://github.com/firesareba/Cartesian-Gantry-Slinger
-Total hours so far: 27
+Total hours so far: 34
 
 - [x] I have a 3D printer
 
@@ -23,3 +23,12 @@ Today I finished the Z axis, which basically uses lead screws with 2 nema 17 pan
 **3/14** 4 Hrs
 
 Ok, today was the easiest, the X axis was really easy, i mean its close to done, i still need the toolhead stuff. All i did was design a mount for the flange nut and the MGN12H that goes up and down with the z axis. Then i put another MGN12H rail (i promise its the last one) across it bridging the 2 mounts together for a unified x axis (im using the rail as a structure to reduce weight). Then i mounted a nema 17 pancake motor to one end of the axis and a idler pulley to the other end creating a belt system, which when i design toolhead, will be another loop and fasten belt drive. You can see how it looks on the picture before, and i will provide a close look in a video after when the whole printer is finished,
+
+---
+
+**3/15** 7 Hrs
+
+Today was by far the most PAINFUL DAY out of all of them.  The one where i designed the toolhead. GOSH the amount of BRAINCELLS i lost doing this was insane. The gist of it is that a plate connects to the belt for movement, which is connected the the BMG extruder, which also has a Nema 17 Pancake attatched to it.
+Then i thought i was done, then i realized i needed the fucking blower fan (OK) but also the bed leveling sensor. the amount of braincells i lost for this single thing was insane, i never want to do ts again. the mounting was so annoying. But ay, atleast this is finished (hopefully lol). Now I have to do everything else, and i will be done with design.
+
+<img width="374" height="347" alt="image" src="https://github.com/user-attachments/assets/2dc52ea8-b3fd-42c8-8699-3882484a75d4" />
