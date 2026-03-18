@@ -54,6 +54,8 @@ Then i thought i was done, then i realized i needed the fucking blower fan (OK) 
 
 Yesterday and today was pretty basic, although it was a lot of work. Basically what i worked on is mounting components like bed, SKR Mini, and worked on the bom. Overall it was pretty simple. The reason it was much simpler is because the build plate is stationary, meaning I can use a really basic mounting system and done need a complex one, (I used a screw clamp). The biggest pain was the BOM, i did NOT anticipate how expensive MGN12h rails are :_(, I had to cost cut in many ways, including replacing some extrusions with printed ones, using a old latpop to run klipper instead of a pi zero, and other measures, but it all worked out in the end :D! Hopefully it gets aproved and I can go to RMRRF!!!! :D :D :D :D :D.
 
+**This could be important: on Aliexpress, you CAN buy dollar express items on their own as a normal choice item. Just scroll to the bottom the the item (dont click add to my picks) and copy item link, then paste it and u got the actual item!!!**
+
 <img width="1808" height="920" alt="Screenshot 2026-03-17 221811" src="https://github.com/user-attachments/assets/d79b2795-3e1d-4387-8c42-a3e848bca8fa" />
 <img width="1918" height="1187" alt="Screenshot 2026-03-17 221807" src="https://github.com/user-attachments/assets/f0a60c19-e1d7-4f6e-874a-a4c918833c80" />
 <img width="782" height="766" alt="Screenshot 2026-03-17 221758" src="https://github.com/user-attachments/assets/77ed61a2-cda-4ccc-b7d8-4918acfe0573" />
