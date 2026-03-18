@@ -28,6 +28,8 @@ MGN12H rails are extremely expensive, so I had to cost cut in several areas to s
 | <img src="https://github.com/user-attachments/assets/77ed61a2-cda-4ccc-b7d8-4918acfe0573" width="450"> | <img src="https://github.com/user-attachments/assets/f23466dc-427b-42e2-881f-62b17f4a9937" width="450"> |
 | <img src="https://github.com/user-attachments/assets/77b9c1b6-eb7a-4bd4-a1a8-f3981ecb0634" width="450"> | <img src="https://github.com/user-attachments/assets/8782b1b5-3aad-4b84-94bd-42836262ebb2" width="450"> |
 
+CAD can be viewed here https://cad.onshape.com/documents/4b7d20fc78499882d952db83/w/426ea4e6b1dd389c75ce2c2f/e/88c5687be45517fc3e9cc648?renderMode=0&uiState=69babc656960cf6b0f19f722 or the STEP File
+
 ### Progress
 - [x] Initial Research (Settled on Gantry Slinger over Flying Gantry)
 - [x] Y-Axis Design & XZ Gantry movement
